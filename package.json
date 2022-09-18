@@ -3,6 +3,7 @@
     "file-system": "^2.2.2"
   },
   "scripts": {
-    "createDir": "node createDir.js"
+    "createDir": "node createDir.js",
+    "start": "node weather.js"
   }
 }
