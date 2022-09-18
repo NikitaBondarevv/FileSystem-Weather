@@ -4,6 +4,6 @@
   },
   "scripts": {
     "createDir": "node createDir.js",
-    "start": "node weather.js"
+    "start": "node weatherModule.js"
   }
 }
